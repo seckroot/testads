@@ -44,3 +44,9 @@ api16-core-c-useast2a.tiktokv.com
 api16-core-c-useast1a.tiktokv.com
 api16-core-c-alisg.tiktokv.com
 r1---sn-bboxu-4aoe.googlevideo.com
+i3.ytimg.com
+yt3.ggpht.com
+r1---sn-bboxu-4aol.googlevideo.com
+r3---sn-bboxu-4aol.googlevideo.com
+r3---sn-bboxu-4aoe.googlevideo.com
+redirector.googlevideo.com
